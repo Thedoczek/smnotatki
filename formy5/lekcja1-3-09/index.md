@@ -17,16 +17,16 @@
 ## Faktura
 ### Imitacja
 - **Imitacja w ruchu prostym** - powtórzenie melodii dosłowne lub z przesunięciem o interwał (gamowłaściwy)
-	![[Pasted image 20240903161144.png]]
-	![[Pasted image 20240903161515.png]]
+	![](https://thedoczek.github.io/smnotatki/formy5/lekcja1-3-09/image1.png)
+	![](https://thedoczek.github.io/smnotatki/formy5/lekcja1-3-09/image2.png)
 - **Imitacja w inwersji** - zastosowanie odwrotnego niż we wzorcu kierunku interwałów
-	![[Pasted image 20240903162939.png]]
+	![](https://thedoczek.github.io/smnotatki/formy5/lekcja1-3-09/image4.png)
 - **Imitacja w raku** - przepisanie wzorca od końca do początku
-	![[Pasted image 20240903163617.png]]
+	![](https://thedoczek.github.io/smnotatki/formy5/lekcja1-3-09/image5.png)
 - **Imitacja w raku inwersji** / **Imitacja w inwersji raka**
 -  **Imitacja w augmentacji** - powiększenie wartości rytmicznych
   **Imitacja w dyminucji** - pomniejszenie wartości rytmicznych
-  ![[Pasted image 20240903164103.png]]
+  ![](https://thedoczek.github.io/smnotatki/formy5/lekcja1-3-09/image6.png)
   Augmentacja i dyminucja mogą współwystępować z pozostałymi rodzajami imitacji
 #### Kanon
 Kanony można podzielić na
